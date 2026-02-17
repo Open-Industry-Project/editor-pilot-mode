@@ -2,6 +2,11 @@
 
 Pilot any scene directly in the Godot 3D editor. Press `Shift+R` to drop into your scene and walk around.
 
+
+https://github.com/user-attachments/assets/dc2ad8b2-e6f8-4dd4-98f3-5fbf16eb33e0
+
+
+
 ## Features
 
 - Spawns a character at the editor camera position and takes over the 3D viewport
